@@ -25,6 +25,7 @@
 .inputBtn {
   border: transparent;
   outline: transparent;
+  font-weight: 700;
 }
 
 .displayInput {
