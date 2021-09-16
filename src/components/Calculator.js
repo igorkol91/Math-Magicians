@@ -14,7 +14,6 @@ export default class Calculator extends React.Component {
   }
 
   handleClick = (btnName) => {
-    console.log(btnName);
     const newState = calculate(this.state, btnName);
     this.setState((prevState) => ({
       ...prevState,
