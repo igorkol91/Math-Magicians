@@ -6,10 +6,6 @@ Built With
     CSS
     React
     
-    
-## LiveLink
-[LiveLink](https://github.com/igorkol91/Math-Magicians/settings/pages/)
-
 
 ### Prerequisites
 
@@ -67,21 +63,3 @@ TBA
 ## 📝 License
 
 TBA
-
-# RestorauntApi
-
-## Built With
-
-- Javascript
-- Html
-- Bootstrap
-- Css
-- Jest
-- Fontawesome CDN
-
-
-
-### Video demo
-[VideoLink](https://drive.google.com/file/d/1ybLtxSC8SSCKpcN_FPnQ1OX328fvCrCK/view?usp=sharing)
-
-
