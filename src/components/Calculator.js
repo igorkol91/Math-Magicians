@@ -16,9 +16,12 @@ const Calculator = () => {
   };
 
   return (
-    <section className="bigContainer w-50">
-      <Display value={next || total || '0'} />
-      <Keyboard handle={handleClick} />
+    <section>
+      <article className="bigContainer w-50">
+        <h2>Let&apos;s do some math!</h2>
+        <Display value={next || total || '0'} />
+        <Keyboard handle={handleClick} />
+      </article>
     </section>
   );
 };
